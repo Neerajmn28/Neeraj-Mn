@@ -1,6 +1,7 @@
-![logo](https://github.com/Neerajmn28/Neeraj-Mn/blob/main/git%20banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Neeraj Mn</h1>
 <h3 align="center">Data exploration in motion</h3>
+![logo](https://github.com/Neerajmn28/Neeraj-Mn/blob/main/git%20banner.jpg)
 
 
 <img align="right" alt="A world of data" width="400" src="https://cdn-images-1.medium.com/max/767/1*U8JRk4OJhO82FDLXeBfWNQ.gif">
