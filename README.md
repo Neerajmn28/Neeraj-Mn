@@ -1,4 +1,4 @@
-![logo](https://github.com/Neerajmn28/Neeraj-Mn/blob/main/Neon%20Green%20Gaming%20Channel%20YouTube%20Banner%20-%20Youtube%20Banner.html)
+![logo](https://github.com/Neerajmn28/Neeraj-Mn/blob/main/git%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Neeraj Mn</h1>
 <h3 align="center">Data exploration in motion</h3>
 
