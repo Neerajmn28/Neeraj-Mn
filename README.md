@@ -1,4 +1,4 @@
-![logo](https://github.com/Neerajmn28/Neeraj-Mn/blob/main/git%20banner.jpg)
+![logo]()
 <h1 align="center">Hi 👋, I'm Neeraj Mn</h1>
 <h3 align="center">Data exploration in motion</h3>
 
